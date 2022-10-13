@@ -1,4 +1,4 @@
-var synth = window.speechSynthesis;
+var synth = window.speechSynthesis; //ブラウザ本体の要素をvarでとってきている
 
 var inputForm = document.querySelector('form');
 var inputTxt = document.querySelector('.txt');
